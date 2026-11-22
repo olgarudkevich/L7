@@ -15,7 +15,6 @@
 ## 📋 Завдання 1
 
 <img width="412" height="26" alt="image" src="https://github.com/user-attachments/assets/25535dc0-a2de-4168-bde8-8df7120214e6" />
-
 <img width="589" height="24" alt="image" src="https://github.com/user-attachments/assets/f3b626a9-1f8a-4754-b5bb-424c8f70defb" />
 
 ---
@@ -42,7 +41,6 @@
 ## 📋 Завдання 2
 
 <img width="394" height="27" alt="image" src="https://github.com/user-attachments/assets/688c961f-9904-44a5-ae1d-b55b4f53c860" />
-
 <img width="572" height="19" alt="image" src="https://github.com/user-attachments/assets/5cc2fe42-cd12-4125-acee-93edfda971f9" />
 
 ---
